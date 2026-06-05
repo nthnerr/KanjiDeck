@@ -8,7 +8,7 @@ KanjiDeck is a web-based Japanese vocabulary trainer built with Flask and SQLite
 * Random vocabulary cards from a SQLite database
 * Show/Hide answer functionality
 * Next card generation
-* Modern dark-themed user interface
+* Modern dark-themed UI
 * Dynamic routing with Flask
 * SQLite database integration
 
@@ -26,16 +26,11 @@ KanjiDeck is a web-based Japanese vocabulary trainer built with Flask and SQLite
 * CSS
 * JavaScript
 
-### Version Control
-
-* Git
-* GitHub
-
 ## Screenshots
 
 ### Home Page
 
-![Home Page](images/home.png)
+![Home Page](images/homepage.png)
 
 ### Review Page
 
