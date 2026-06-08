@@ -19,6 +19,7 @@ def review(level):
     conn.close()
     return render_template("review.html", id=card[0], original=card[1], furigana=card[2], english=card[3], level=level)
 
+#Updates reviewHistory.db when user reviews a card
 @app.route("/correct", methods=["POST"])
 def correct():
     card_id=request.form["card_id"]

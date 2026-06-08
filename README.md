@@ -3,6 +3,7 @@
 KanjiDeck is a web-based Japanese vocabulary trainer built with Flask and SQLite. Users can select a JLPT level (N5–N1) and practice vocabulary using flashcards with a clean modern UI.
 
 Live on: https://kanjideck.onrender.com/
+
 Desktop App (Windows): [KanjiDeck-DA](https://github.com/nthnerr/KanjiDeck-DA)
 
 ## Features
